@@ -1,6 +1,8 @@
 # Issues
 
 **Programming Elixir 1.2 Chap 13 Issues Project**
+**Phase 1: command line processing**
+
 
 ## Installation
 
